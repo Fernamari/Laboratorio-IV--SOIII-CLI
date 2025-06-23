@@ -79,4 +79,4 @@ Matrícula: 2025-0860
 
 mail -s "AsuntoDelCorreo" ejemplo@gmail.com < mensaje.txt
 
-# En caso de no tener la herramienta mailx instalada para ejecutar el comando mail, el sistema te preguntará si quieres instalarla. Acepta, y luego continúa con el envío.
+# En caso de no tener la herramienta s-nail instalada para ejecutar el comando mail, el sistema te preguntará si quieres instalarla. Acepta, y luego continúa con el envío.
